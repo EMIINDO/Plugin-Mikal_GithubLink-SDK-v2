@@ -1,0 +1,28 @@
+{
+  "languageTag": "en-US",
+  "fileDescription": "Strings for GithubLink Plugin",
+  "text": {
+    "plugins": {
+      "mikal_githublink": {
+        "name": "GithubLink",
+        "description": "Launch Github Desktop direct from the C3 editor with the repo for the project.",
+        "help-url": "https://github.com/armandoalonso/c3IDE",
+        "properties": {
+          "github-link": {
+            "name": "Github URL",
+            "desc": "Github repo URL."
+          },
+          "launch-github": {
+            "name": "Github Desktop",
+            "desc": "Launch Github Desktop with link.",
+            "link-text": "Github"
+          }
+        },
+        "aceCategories": {},
+        "conditions": {},
+        "actions": {},
+        "expressions": {}
+      }
+    }
+  }
+}
